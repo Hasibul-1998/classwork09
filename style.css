@@ -1,0 +1,126 @@
+.exp1{
+    width: 300px;
+    height: 200px;
+    border: 2px solid red;
+    text-align: justify;
+    text-align-last: center;
+    margin-top: 20px;
+    
+}
+.exp2{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid red;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.exp3{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid red; 
+    text-indent: 150px;
+    margin-top: 20px;
+}
+ .exp4{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid red; 
+    word-spacing: 30px;
+     margin-top: 20px;
+}
+.exp5{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid red;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: aqua;
+    margin-top: 20px;
+}
+.exp6{
+ width: 300px;
+    min-height: 200px;
+    border: 2px solid red; 
+    word-wrap: break-word;
+    margin-top: 20px;
+}
+.exp7{
+ width: 300px;
+    min-height: 200px;
+    border: 2px solid red; 
+    word-break: break-all;
+    margin-top: 20px;
+    
+}
+.exp8{
+    width: 300px;
+    border: 2px solid red;
+    white-space: nowrap;
+    margin-top: 20px;
+}
+.exp9{
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid red; 
+    text-shadow: 2px 2px 1px red;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.exp10{
+    width: 300px;
+    border: 2px solid red;
+    white-space: pre;
+    margin-top: 20px;
+}
+.exp11{
+    width: 300px;
+    border: 2px solid red;
+    white-space: pre-line;
+    margin-top: 20px;
+}
+.exp12{
+    width: 300px;
+    border: 2px solid red;
+    white-space: pre-wrap;
+    margin-top: 20px;
+}
+.exp13{
+    width: 300px;
+    border: 2px solid red;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 20px;
+    
+    
+}
+.exp14{
+     width: 800px;
+    border: 2px solid red;
+    column-count: ; 
+    column-gap: 50px;
+    column-rule-width: 5px;
+    column-rule-style: solid;
+    column-rule-color: blue;
+    column-width: 200px;
+    margin-top: 20px;
+}
+.exp15{
+    width: 800px;
+    border: 2px solid red;
+    column-count: 5;
+    column-rule: 5px double blue;
+    column-gap: 40px;
+    margin-top: 20px;
+}
+h1{
+    column-span: all;
+    text-align: center;
+}
+body{
+    width: 80%;
+    margin: 20px auto;
+}
+    
+    
+    
